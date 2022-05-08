@@ -6,6 +6,7 @@
 ```sh
 pip install poetry
 cd *directory_with_app*
+python3 -m venv .venv
 poetry install
 python -m weather *city_in_russia*
 ```
