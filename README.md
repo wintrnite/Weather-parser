@@ -16,4 +16,4 @@ python -m weather *city_in_russia*
 ```
 
 ##### Requirements
-You must have Python 3.8+ to run the game.
+You must have Python 3.8+ to run the app.
